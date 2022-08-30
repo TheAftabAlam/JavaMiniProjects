@@ -20,7 +20,7 @@ public class Answer {
 	}
 	public Answer() {
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 	public int getAid() {
 		return aid;
